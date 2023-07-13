@@ -1,2 +1,2 @@
 # 2023-Capstone-Project-1-Docs
-Docs &amp; Videos for Capstone Project.
+여기는 Mute의 영상 및 문서 자료가 보관되는 곳입니다.
